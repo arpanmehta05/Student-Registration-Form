@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+input[type="date"] {
+    color: gray;
+    text-transform: uppercase;
+}
